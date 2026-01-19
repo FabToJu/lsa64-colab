@@ -1,5 +1,6 @@
-gradio
+numpy<2.0
 mediapipe
+gradio
 torch
 torchvision
 timm
